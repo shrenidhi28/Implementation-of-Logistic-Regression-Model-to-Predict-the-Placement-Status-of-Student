@@ -64,7 +64,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-#PLACEMENT DATA
+PLACEMENT DATA
 <br>
 <br>
 <img width="844" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/7df61bd2-c296-4302-a798-e42c778a2156">

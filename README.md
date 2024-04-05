@@ -65,31 +65,54 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 #PLACEMENT DATA
+<br>
+<br>
 <img width="844" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/7df61bd2-c296-4302-a798-e42c778a2156">
+<br>
+<br>
 
-#Null data
+
+Null data
+<br>
+<br>
 <img width="749" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/4f446cb4-8716-4f91-930d-46f379c3e200">
-
+<br>
+<br>
 #X DATA
+<br>
+<br>
 <img width="626" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/1ef9bb6c-0abf-45ea-8326-e0e9e451c6b0">
-
+<br>
+<br>
 #Y DATA
+<br>
+<br>
 <img width="254" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/3d0362ce-1141-46f7-a963-be524372c8df">
-
+<br>
+<br>
 #Y Predicted
+<br>
+<br>
 <img width="876" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/e824db6e-8b36-4652-96ff-ed685c66e711">
-
+<br>
+<br>
 #Accuracy
-
-
-
+<br>
+<br>
 <img width="325" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/61f05093-52e1-47fb-b64c-eeaaa5fe8958">
+<br>
+<br>
 
 #Classifiaction report
+<br>
+<br>
+
 
 
 
 <img width="344" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/60caa92a-b22a-4e1f-a546-6112b70457b5">
+<br>
+<br>
 
 
 

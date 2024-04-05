@@ -78,32 +78,32 @@ Null data
 <img width="749" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/4f446cb4-8716-4f91-930d-46f379c3e200">
 <br>
 <br>
-#X DATA
+X DATA
 <br>
 <br>
 <img width="626" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/1ef9bb6c-0abf-45ea-8326-e0e9e451c6b0">
 <br>
 <br>
-#Y DATA
+Y DATA
 <br>
 <br>
 <img width="254" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/3d0362ce-1141-46f7-a963-be524372c8df">
 <br>
 <br>
-#Y Predicted
+Y Predicted
 <br>
 <br>
 <img width="876" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/e824db6e-8b36-4652-96ff-ed685c66e711">
 <br>
 <br>
-#Accuracy
+Accuracy
 <br>
 <br>
 <img width="325" alt="image" src="https://github.com/AkilaMohan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/155261096/61f05093-52e1-47fb-b64c-eeaaa5fe8958">
 <br>
 <br>
 
-#Classifiaction report
+Classifiaction report
 <br>
 <br>
 

@@ -15,11 +15,11 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Program:
 ```
-```
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: C.shrenidhi
 RegisterNumber:  212223040196
 ```
+
 ```
 import pandas as pd
 data=pd.read_csv("/content/Placement_Data.csv")
@@ -61,7 +61,6 @@ from sklearn.metrics import classification_report
 classification_report=classification_report(y_test,y_pred)
 print(classification_report)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-
 ```
 
 ## Output:
